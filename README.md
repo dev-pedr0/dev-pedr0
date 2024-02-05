@@ -20,4 +20,4 @@
 
 <br/>
 
-###Atualmente foco em projetos front-end, buscando expandir meus conhecimentos no desenvolvimento web
+### Atualmente foco em projetos front-end, buscando expandir meus conhecimentos no desenvolvimento web
