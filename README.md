@@ -18,6 +18,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-pedr0&layout=compact)
 
-<br/>
-
 ### Atualmente foco em projetos front-end, buscando expandir meus conhecimentos no desenvolvimento web
