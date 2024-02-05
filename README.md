@@ -13,5 +13,10 @@
   <img align="center" alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
   <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
-
+<br/>
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-pedr0&layout=compact)
+
+<br/>
+
+###Atualmente foco em projetos front-end, buscando expandir meus conhecimentos no desenvolvimento web
