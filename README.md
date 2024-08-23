@@ -1,7 +1,7 @@
 ### Olá, meu nome é Pedro Costa, seja bem vindo 😄
 
 ### Para entrar em contato comigo:
-[![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-conceição1/)
+[![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-conceicao1/)
 
 ### Tecnologias que domino:
 <div style="display: inline-block">
