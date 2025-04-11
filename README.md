@@ -1,24 +1,34 @@
-<div style="display: flex">
-  <p>### Olá, meu nome é Pedro Costa, lhe apresento minha bagunça 😄</p>
-  <p>### Hello I am Pedro Costa, welcome to my beautiful mess 😄</p>
+<div align="center">
+  <h1>Olá, meu nome é Pedro Costa, lhe apresento minha bagunça 😄</h1>
+  <h1>Hello I am Pedro Costa, welcome to my beautiful mess 😄</h1>
 </div>
----
-### Para entrar em contato comigo:
+
+### Tecnologias/Techs:
+<div style="display: inline-block">
+  <img align="center" alt="React" width="100" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
+  <img align="center" alt="Vue" width="100" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff"/>
+  <img align="center" alt="Flask" width="100" src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff"/>
+  <img align="center" alt="Java" width="100" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"/>
+  <img align="center" alt="C#" width="90" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>  
+</div>
+
+<br/>
+<br/>
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-pedr0&layout=compact&bg_color=000000&text_color=ffffff" />
+    </td>
+    <td>
+      <h2 align="center">Foco em // Focus on:</h2>
+      <h3>Desenvolvimento web e Interfaces Gráficas <br/> Web Development and Graphical Interfaces</h3>
+    </td>
+  </tr>
+</table>
+
+<br/>
+<br/>
+
 [![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-conceicao1/)
 
-### Tecnologias que domino:
-<div style="display: inline-block">
-  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img align="center" alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</div>
-<br/>
-<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-pedr0&layout=compact)
-
-### Atualmente foco em projetos front-end, buscando expandir meus conhecimentos no desenvolvimento web
