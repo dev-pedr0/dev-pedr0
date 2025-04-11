@@ -1,5 +1,8 @@
-### Olá, meu nome é Pedro Costa, seja bem vindo 😄
-
+<div style="display: flex">
+  <p>### Olá, meu nome é Pedro Costa, lhe apresento minha bagunça 😄</p>
+  <p>### Hello I am Pedro Costa, welcome to my beautiful mess 😄</p>
+</div>
+---
 ### Para entrar em contato comigo:
 [![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-conceicao1/)
 
