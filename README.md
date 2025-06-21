@@ -6,10 +6,15 @@
 ### Tecnologias/Techs:
 <div style="display: inline-block">
   <img align="center" alt="React" width="100" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
+  <img align="center" alt="TailwindCss" width="100" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
   <img align="center" alt="Vue" width="100" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff"/>
+  <img align="center" alt="Next" width="100" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img align="center" alt="Vite" width="100" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff"/>
   <img align="center" alt="Flask" width="100" src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff"/>
-  <img align="center" alt="Java" width="100" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"/>
-  <img align="center" alt="C#" width="90" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>  
+  <img align="center" alt="Spring" width="100" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img align="center" alt=".NET" width="90" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img align="center" alt="Node" width="100" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img align="center" alt="MySQL" width="100" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
 <br/>
